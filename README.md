@@ -1,2 +1,2 @@
 # hello-world
-first programming
+first programming lesson - I like node.js and coffescript.  
